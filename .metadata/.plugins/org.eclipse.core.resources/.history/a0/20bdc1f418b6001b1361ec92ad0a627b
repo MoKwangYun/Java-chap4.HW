@@ -1,0 +1,9 @@
+import java.util.Scanner;
+
+public class Report2 {
+	static void method01() {
+		Scanner scanner = new Scanner(System.in);
+		System.out.println("Enter deposit amount for account1");
+		Account1 a1 = new Account1();
+	}
+}
